@@ -1,10 +1,10 @@
-#AI Practical
+###AI Practical
 
 This repository contains multiple Prolog and Python implementations of classic Artificial Intelligence (AI) problems. Each file demonstrates a key concept used in AI, including search algorithms, planning, and logic-based problem solving.
 
 ---
 
-## File Overview
+### File Overview
 
 | File Name       | Language | Description |
 |----------------|----------|-------------|
@@ -19,7 +19,7 @@ This repository contains multiple Prolog and Python implementations of classic A
 
 ---
 
-## How to Run
+###How to Run
 
 ### For Python Files
 
@@ -28,7 +28,7 @@ Make sure Python is installed:
 ```bash
 python filename.py
 ```
-##For Prolog Files
+###For Prolog Files
 -Install SWI-Prolog, then:
 swipl filename.pl
 And inside the terminal, run the respective query like:
@@ -37,7 +37,7 @@ prolog
 ?- go.
 or as defined in the code.
 
-##Concepts Covered
+###Concepts Covered
 Informed and Uninformed Search
 
  AND-OR Graphs (AO*)
@@ -50,7 +50,7 @@ Expert Systems
 
 Recursion and Planning in AI
 
-##Educational Use
+###Educational Use
 These files are perfect for:
 Practicals
 Viva preparation
